@@ -1,0 +1,81 @@
+/* style di base  */
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    color: white;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h2 {
+    color: rgb(0, 221, 0);
+}
+
+
+/* Main */
+
+.intro {
+    padding: 50px;
+    width: 65%;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.logo img {
+    widht: 350px;
+    height: 150px;
+    margin-top: 50px;
+}
+
+
+.green {
+    margin: auto;
+    background: rgb(0, 221, 0);
+    height: 40px;
+    margin-bottom: 30px;
+
+}
+
+.input {
+    display: inline;
+    margin-top: 50px;
+}
+
+.input input{margin-top: 10px;}
+
+.text{font-size: 20px;}
+
+.monopattino {
+    text-align: left;
+     margin-bottom: 25px;
+     margin-top: 10px;
+}
+
+.silver {
+    color: silver;
+}
+
+.stato {
+    width: 38%;
+    height: 25px;
+    border-radius: 8px;
+    margin-top: 5px;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.verde {
+    background-color: green;width: 60%;
+}
+
+.red {
+    background-color: red;width: 20%;
+}
